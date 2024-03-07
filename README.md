@@ -2,7 +2,7 @@
 
 We named our project team as Barbie because we are both share the characteristics as barbies, and we are also independent women who dedicate in data science! In Barbie, a serie named You Can Be A Doctor, triggered our ideas about connecting healthcare industry and data science. Therefore, our project aimed at developing Machine Learning predictive models for doctors to diagnose the diseases based on multiple symptons in order to increase work efficiency!
 
-## Mark: The content in this repo is copied from Barbie-Data-Dive organization which is funded by Jacquelin Lai and Lara Terpetschnig, the content within the repo is also created by Jacquelin Lai and Lara Terpetschnig.
+### Mark: The content in this repo is copied from [Barbie-Data-Dive organization](https://github.com/Barbie-Data-Dive/YCBD.git) which is funded by Jacquelin Lai and Lara Terpetschnig, the content within the repo is also created by Jacquelin Lai and Lara Terpetschnig.
 
 ## File Directory
 
