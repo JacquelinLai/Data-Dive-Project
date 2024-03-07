@@ -1,6 +1,6 @@
 # Barbie : You Can Be A Doctor!
 
-## Mark: The content in this repo is copied from CS225ECProject organization which is funded by Jacquelin Lai and Lara Terpetschnig, the content within the repo is also created by Jacquelin Lai and Lara Terpetschnig.
+## Mark: The content in this repo is copied from Barbie-Data-Dive organization which is funded by Jacquelin Lai and Lara Terpetschnig, the content within the repo is also created by Jacquelin Lai and Lara Terpetschnig.
 
 ## File Directory
 
